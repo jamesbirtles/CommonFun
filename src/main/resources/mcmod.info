@@ -1,0 +1,18 @@
+[
+{
+  "modid" : "commonfun",
+  "name" : "Common Fun",
+  "version" : "${version}",
+  "mcversion": "${mcversion}",
+  "authors": [
+    "UnwrittenFun"
+  ],
+  "description": "Common code used in mods by UnwrittenFun",
+  "url" : "https://github.com/unwrittenfun/CommonFun",
+  "updateUrl" : "",
+  "logoFile" : "",
+  "parent" : "",
+  "screenshots": [
+  ]
+}
+]
